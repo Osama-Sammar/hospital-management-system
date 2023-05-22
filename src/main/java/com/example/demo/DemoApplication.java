@@ -13,6 +13,8 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class DemoApplication {
 	public DemoApplication() {
+
+
 	}
 
 	public static void main(String[] args) {
