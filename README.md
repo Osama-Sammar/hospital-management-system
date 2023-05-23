@@ -2,20 +2,18 @@
 ![UML Diagram](https://github.com/Osama-Sammar/hospital-management-system/assets/114613931/3ea84d86-9446-47ef-842f-a41ed7b21f99)
 
 # Doctor
-![Doc1](https://github.com/Osama-Sammar/hospital-management-system/assets/114613931/1d63ae18-b95b-4cc1-a161-5d01f91aa346)
-![Doc2](https://github.com/Osama-Sammar/hospital-management-system/assets/114613931/5e7943ed-564b-43b4-b1e3-56009802fceb)
+![D1](https://github.com/Osama-Sammar/hospital-management-system/assets/114613931/75a905e2-2ac5-4055-8bab-81c5fb9b31e3)
+![D2](https://github.com/Osama-Sammar/hospital-management-system/assets/114613931/e428d07a-d426-49e6-ad03-6f17d3f7f709)
 
 # Patient 
-![Pat1](https://github.com/Osama-Sammar/hospital-management-system/assets/114613931/8a8f4f08-cd1f-4bf0-a968-1a932fe9c55c)
-![Pat2](https://github.com/Osama-Sammar/hospital-management-system/assets/114613931/6a1785d0-d8ac-4069-80e2-4ac2c5e6b3e9)
+![P1](https://github.com/Osama-Sammar/hospital-management-system/assets/114613931/359f8550-2758-4607-aabe-c1cf173ef373)
 
 # HospitalStaff
-![Hos1](https://github.com/Osama-Sammar/hospital-management-system/assets/114613931/517148f7-bce9-4ca4-8d5c-85132b92088b)
-![Hos2](https://github.com/Osama-Sammar/hospital-management-system/assets/114613931/2e914496-01f6-4731-9c4e-0c6c0bbb62a3)
+![H1](https://github.com/Osama-Sammar/hospital-management-system/assets/114613931/a80c78ff-2c97-4182-a674-1362e906b37a)
+![H2](https://github.com/Osama-Sammar/hospital-management-system/assets/114613931/af9f912d-39dc-4e1e-bb46-e010c6dfc513)
 
 # Appointment 
-![App1](https://github.com/Osama-Sammar/hospital-management-system/assets/114613931/cf6022c9-c4ec-4e31-9af1-0fcdf9bf02ed)
-![App2](https://github.com/Osama-Sammar/hospital-management-system/assets/114613931/3eca1d29-7eab-41ec-a91f-4b4f7d74d7f7)
+![App](https://github.com/Osama-Sammar/hospital-management-system/assets/114613931/0c1fd811-71d7-4ab0-9957-237e9f10d5d1)
 
 
 
